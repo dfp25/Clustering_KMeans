@@ -48,7 +48,9 @@ Al ejecutar el análisis, se obtendrán:
 * Recomendaciones basadas en los segmentos identificados.
 
 📄 Licencia
+
 Este proyecto está bajo licencia libre.
 
 👤 Autor
+
 Desarrollado por [dfp25](https://github.com/dfp25).
